@@ -31,8 +31,6 @@ function App() {
     }
   }
 
-  setUserInput(yearlyData);
-
   return (
     <div>
       <Header />
