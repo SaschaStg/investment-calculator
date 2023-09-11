@@ -3,6 +3,8 @@
 An application used to calculate the growth of invested money over the years by yearly savings, interest and investment duration. 
 The application was built with React, JavaScript, and CSS.
 
+Link to application: [Investment Calculator](https://saschastg.github.io/investment-calculator/)
+
 [![Screenshot](https://i.postimg.cc/dQGZn8SX/Screenshot-2023-09-11-162556.png)](https://postimg.cc/t7Cg4Vbt)
 
 ## Installation and Setup Instructions
